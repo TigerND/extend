@@ -1,18 +1,15 @@
 {
-  "name": "backbone-extend-standalone",
+  "name": "compose-extend",
   "description": "Standalone version of Backbone's extend",
-  "version": "0.1.2",
-  "author": "Gaetan Renaudeau <renaudeau.gaetan@gmail.com>",
+  "version": "1.0.0",
+  "author": "Jerome Gravel-Niquet",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gre/backbone-extend-standalone.git"
+    "url": "https://github.com/compose-ui/extend.git"
   },
   "license": "MIT",
-  "keywords": [
-    "backbone",
-    "extend"
-  ],
-  "main": "./backbone-extend-standalone.js",
+  "keywords": ["extend"],
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {}
 }
